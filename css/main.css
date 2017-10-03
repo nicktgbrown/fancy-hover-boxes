@@ -38,6 +38,6 @@ html {
 
 .hover-box:hover .hover-box-img,
 .hover-box:focus .hover-box-img {
-  filter: grayscale(0);
+  filter: grayscale();
   transform: scale(1.1);
 }
